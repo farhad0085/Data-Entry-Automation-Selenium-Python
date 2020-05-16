@@ -12,8 +12,8 @@ pip install flask-wtf
 
 ## Procedure
 1. Enable venv
-	- open cmd and type cd venv/scripts
-	- activate
+	- open cmd and type `cd venv/scripts`
+	- `activate`
 2. Run following commands
 	```
 	cd ../..
@@ -23,7 +23,7 @@ pip install flask-wtf
 	exit()
 	```
 3. Run `python run.py`
-4. Open another cmd and activate venv again
+4. Open another cmd and activate `venv` again
 5. Run `python main.py`
 6. Run `python submit.py`
 6. Find resulted database at `app/info.db`
